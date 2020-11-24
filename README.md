@@ -2077,7 +2077,7 @@ Sit back and enjoy. "Netflix and skill" :P
 
 </details>
 
-## Computer Science Courses
+### Computer Science Courses
 
 <details>
 <summary>Computer Science Courses</summary>
